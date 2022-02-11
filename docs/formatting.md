@@ -1,6 +1,5 @@
 # Formatting phone numbers
-
-## Basics
+phoneinfoga/docs/formatting.md# Basics
 
 The tool only accepts E164 and International formats as input.
 
@@ -75,4 +74,4 @@ For European countries (France as example) :
 - `(+33)01-86-48-xx-xx`
 - `(0033)01-86-48-xx-xx`
 - `(0033)018-648-xxx-x`
-- `+33/018 648 xxx x`
+- `+33/018 648 xxx x`0753353407
